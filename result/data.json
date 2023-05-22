@@ -1,0 +1,356 @@
+{
+  "success": 200,
+  "message": "Data Ditemukan",
+  "data": {
+    "aktivitas": [
+      {
+        "project_id": "1",
+        "judul": "ERUPSI GUNUNG SEMERU",
+        "tanggal_selesai": "2021-12-18",
+        "nama": "KABUPATEN LUMAJANG",
+        "lat": "-8.137022",
+        "long": "113.226601"
+      },
+      {
+        "project_id": "2",
+        "judul": "BANJIR",
+        "tanggal_selesai": "2022-03-31",
+        "nama": "KABUPATEN CILACAP",
+        "lat": "-7.733333",
+        "long": "109"
+      },
+      {
+        "project_id": "3",
+        "judul": "BANJIR",
+        "tanggal_selesai": "2022-08-12",
+        "nama": "KABUPATEN PARIGI MOUTONG",
+        "lat": "0.5817607",
+        "long": "120.8039474"
+      },
+      {
+        "project_id": "4",
+        "judul": "BANJIR",
+        "tanggal_selesai": "2022-10-20",
+        "nama": "KABUPATEN ACEH UTARA",
+        "lat": "4.9786331",
+        "long": "97.2221421"
+      },
+      {
+        "project_id": "5",
+        "judul": "GEMPA BUMI",
+        "tanggal_selesai": "2022-10-22",
+        "nama": "KABUPATEN SAMOSIR",
+        "lat": "2.5833333",
+        "long": "98.8166667"
+      },
+      {
+        "project_id": "6",
+        "judul": "BANJIR DAN TANAH LONGSOR",
+        "tanggal_selesai": "2022-12-04",
+        "nama": "KABUPATEN GUNUNG KIDUL",
+        "lat": "-8.0305091",
+        "long": "110.6168921"
+      },
+      {
+        "project_id": "7",
+        "judul": "GEMPA BUMI",
+        "tanggal_selesai": "2022-12-06",
+        "nama": "KABUPATEN CIANJUR",
+        "lat": "-6.8172531",
+        "long": "107.1307289"
+      },
+      {
+        "project_id": "12",
+        "judul": "Yeu part 1",
+        "tanggal_selesai": "2023-01-13",
+        "nama": "KOTA JAKARTA PUSAT",
+        "lat": "-6.211544",
+        "long": "106.845172"
+      }
+    ],
+    "relawan": [
+      {
+        "user_id": "28",
+        "nama": "KABUPATEN LAMPUNG UTARA",
+        "lat": "-4.8133905",
+        "long": "104.7520939"
+      },
+      {
+        "user_id": "29",
+        "nama": "KABUPATEN KULON PROGO",
+        "lat": "-7.8266798",
+        "long": "110.1640846"
+      },
+      {
+        "user_id": "30",
+        "nama": "KABUPATEN GUNUNG KIDUL",
+        "lat": "-8.0305091",
+        "long": "110.6168921"
+      },
+      {
+        "user_id": "32",
+        "nama": "KABUPATEN GUNUNG KIDUL",
+        "lat": "-8.0305091",
+        "long": "110.6168921"
+      },
+      {
+        "user_id": "33",
+        "nama": "KABUPATEN SRAGEN",
+        "lat": "-7.430229",
+        "long": "111.021301"
+      },
+      {
+        "user_id": "35",
+        "nama": "KABUPATEN GUNUNG KIDUL",
+        "lat": "-8.0305091",
+        "long": "110.6168921"
+      },
+      {
+        "user_id": "36",
+        "nama": "KABUPATEN GUNUNG KIDUL",
+        "lat": "-8.0305091",
+        "long": "110.6168921"
+      },
+      {
+        "user_id": "37",
+        "nama": "KABUPATEN SRAGEN",
+        "lat": "-7.430229",
+        "long": "111.021301"
+      },
+      {
+        "user_id": "38",
+        "nama": "KABUPATEN NUNUKAN",
+        "lat": "4.0609227",
+        "long": "117.666952"
+      },
+      {
+        "user_id": "40",
+        "nama": "KABUPATEN SRAGEN",
+        "lat": "-7.430229",
+        "long": "111.021301"
+      },
+      {
+        "user_id": "41",
+        "nama": "KABUPATEN SRAGEN",
+        "lat": "-7.430229",
+        "long": "111.021301"
+      },
+      {
+        "user_id": "42",
+        "nama": "KABUPATEN GUNUNG KIDUL",
+        "lat": "-8.0305091",
+        "long": "110.6168921"
+      },
+      {
+        "user_id": "43",
+        "nama": "KABUPATEN GUNUNG KIDUL",
+        "lat": "-8.0305091",
+        "long": "110.6168921"
+      },
+      {
+        "user_id": "46",
+        "nama": "KABUPATEN GUNUNG KIDUL",
+        "lat": "-8.0305091",
+        "long": "110.6168921"
+      },
+      {
+        "user_id": "47",
+        "nama": "KABUPATEN SRAGEN",
+        "lat": "-7.430229",
+        "long": "111.021301"
+      },
+      {
+        "user_id": "48",
+        "nama": "KABUPATEN KULON PROGO",
+        "lat": "-7.8266798",
+        "long": "110.1640846"
+      },
+      {
+        "user_id": "49",
+        "nama": "KABUPATEN SEMARANG",
+        "lat": "-6.9666667",
+        "long": "110.4166667"
+      },
+      {
+        "user_id": "50",
+        "nama": "KABUPATEN KULON PROGO",
+        "lat": "-7.8266798",
+        "long": "110.1640846"
+      },
+      {
+        "user_id": "51",
+        "nama": "KABUPATEN SLEMAN",
+        "lat": "-7.716165",
+        "long": "110.335403"
+      },
+      {
+        "user_id": "52",
+        "nama": "KABUPATEN KULON PROGO",
+        "lat": "-7.8266798",
+        "long": "110.1640846"
+      },
+      {
+        "user_id": "53",
+        "nama": "KABUPATEN GUNUNG KIDUL",
+        "lat": "-8.0305091",
+        "long": "110.6168921"
+      },
+      {
+        "user_id": "54",
+        "nama": "KABUPATEN GUNUNG KIDUL",
+        "lat": "-8.0305091",
+        "long": "110.6168921"
+      },
+      {
+        "user_id": "56",
+        "nama": "KABUPATEN SLEMAN",
+        "lat": "-7.716165",
+        "long": "110.335403"
+      },
+      {
+        "user_id": "57",
+        "nama": "KABUPATEN SLEMAN",
+        "lat": "-7.716165",
+        "long": "110.335403"
+      },
+      {
+        "user_id": "59",
+        "nama": "KABUPATEN BANTUL",
+        "lat": "-7.8846111",
+        "long": "110.3341111"
+      },
+      {
+        "user_id": "62",
+        "nama": "KOTA YOGYAKARTA",
+        "lat": "-7.797224",
+        "long": "110.368797"
+      },
+      {
+        "user_id": "63",
+        "nama": "KABUPATEN SLEMAN",
+        "lat": "-7.716165",
+        "long": "110.335403"
+      },
+      {
+        "user_id": "64",
+        "nama": "KOTA YOGYAKARTA",
+        "lat": "-7.797224",
+        "long": "110.368797"
+      },
+      {
+        "user_id": "65",
+        "nama": "KABUPATEN BANTUL",
+        "lat": "-7.8846111",
+        "long": "110.3341111"
+      },
+      {
+        "user_id": "66",
+        "nama": "KABUPATEN GUNUNG KIDUL",
+        "lat": "-8.0305091",
+        "long": "110.6168921"
+      },
+      {
+        "user_id": "67",
+        "nama": "KOTA YOGYAKARTA",
+        "lat": "-7.797224",
+        "long": "110.368797"
+      },
+      {
+        "user_id": "68",
+        "nama": "KABUPATEN BANTUL",
+        "lat": "-7.8846111",
+        "long": "110.3341111"
+      },
+      {
+        "user_id": "69",
+        "nama": "KABUPATEN GUNUNG KIDUL",
+        "lat": "-8.0305091",
+        "long": "110.6168921"
+      },
+      {
+        "user_id": "70",
+        "nama": "KABUPATEN BANTUL",
+        "lat": "-7.8846111",
+        "long": "110.3341111"
+      },
+      {
+        "user_id": "71",
+        "nama": "KOTA YOGYAKARTA",
+        "lat": "-7.797224",
+        "long": "110.368797"
+      },
+      {
+        "user_id": "72",
+        "nama": "KOTA YOGYAKARTA",
+        "lat": "-7.797224",
+        "long": "110.368797"
+      },
+      {
+        "user_id": "73",
+        "nama": "KABUPATEN SLEMAN",
+        "lat": "-7.716165",
+        "long": "110.335403"
+      },
+      {
+        "user_id": "74",
+        "nama": "KABUPATEN SLEMAN",
+        "lat": "-7.716165",
+        "long": "110.335403"
+      },
+      {
+        "user_id": "75",
+        "nama": "KABUPATEN GUNUNG KIDUL",
+        "lat": "-8.0305091",
+        "long": "110.6168921"
+      },
+      {
+        "user_id": "77",
+        "nama": "KABUPATEN SLEMAN",
+        "lat": "-7.716165",
+        "long": "110.335403"
+      },
+      {
+        "user_id": "78",
+        "nama": "KABUPATEN SLEMAN",
+        "lat": "-7.716165",
+        "long": "110.335403"
+      },
+      {
+        "user_id": "79",
+        "nama": "KABUPATEN LAMPUNG UTARA",
+        "lat": "-4.8133905",
+        "long": "104.7520939"
+      },
+      {
+        "user_id": "80",
+        "nama": "KABUPATEN SLEMAN",
+        "lat": "-7.716165",
+        "long": "110.335403"
+      },
+      {
+        "user_id": "81",
+        "nama": "KABUPATEN SLEMAN",
+        "lat": "-7.716165",
+        "long": "110.335403"
+      },
+      {
+        "user_id": "83",
+        "nama": "KABUPATEN KULON PROGO",
+        "lat": "-7.8266798",
+        "long": "110.1640846"
+      },
+      {
+        "user_id": "84",
+        "nama": "KABUPATEN BANTUL",
+        "lat": "-7.8846111",
+        "long": "110.3341111"
+      },
+      {
+        "user_id": "89",
+        "nama": "KOTA YOGYAKARTA",
+        "lat": "-7.797224",
+        "long": "110.368797"
+      }
+    ]
+  }
+}
