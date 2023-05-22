@@ -32,7 +32,10 @@ const mapping = async () => {
     shadowSize: [41, 41],
   });
 
-  const response = await fetch("/result/data.json");
+  //const response = await fetch("/result/data.json");
+  const response = await fetch(
+    "https://caesariodito.github.io/st-leaflet-map/result/data.json"
+  );
   const coors = await response.json(); //extract JSON from the http response
 
   const aktivitas = coors.data.aktivitas;
